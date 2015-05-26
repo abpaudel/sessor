@@ -1,0 +1,9 @@
+How to Play???
+
+There are four players in the game. Each player bets equal amount of money before cards are distributed. Then, the cards in the deck are shuffled and three cards are distributed to each player. Three cards of each player has a value which is calculated on the following basis:
+   -->Consider A=1, K=10, Q=10, J=10 and others same as their numbers.
+   -->Add the values of each of the three cards.
+   -->Divide the sum by 10 and note the remainder.
+   -->The remainder is the net value of the three cards possessed by each player.
+Finally, the player with highest value is the declared the winner and each player has to give the winner the amount of money that was bet at the beginning of the game.
+If two or more players have the same highest net value, the game is a draw. In this case, the amount of bet money becomes double the previous value and the cards are distributed again and played in the same way.
